@@ -15,7 +15,7 @@
 
 ## 📖 About The Project
 
-**Dodge Arenar** is a minimalist, fast-paced arcade dodging game. The core objective is simple: survive as long as possible against incoming enemy cubes that spawn directly ahead and try to hit you. 
+**Dodge Arena** is a minimalist, fast-paced arcade dodging game. The core objective is simple: survive as long as possible against incoming enemy cubes that spawn directly ahead and try to hit you. 
 
 This project was built from scratch as a foundational stepping stone into game development, focusing on mastering movement mechanics, UI timers, script logic, and game loops in Unity.
 
@@ -91,7 +91,7 @@ The game features three distinct enemy variants with unique behaviors:
 
 ## ⚡ Warning!! ⚡
 
-I Used AI to Add Coments in my scripts but the script i make by my own
+I Used AI to Add Comments in my scripts but the script i make by my own
 I used AI to make this read.me too 
 
 ---
@@ -103,4 +103,4 @@ To run or inspect this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Cube-Dodger.git](https://github.com/YOUR_USERNAME/Cube-Dodger.git)
+  git clone https://github.com/Its-GekaDev/Dodge-Arena.git

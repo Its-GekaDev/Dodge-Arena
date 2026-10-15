@@ -49,7 +49,8 @@ The game features three distinct enemy variants with unique behaviors:
 ### Main Menu / Start Screen
 *(Replace with your screenshot link)*
 <br>
-<img width="1226" height="697" alt="image" src="https://github.com/user-attachments/assets/22aea63c-2fff-40cf-9497-a79b48ba260e" />
+<img width="2557" height="1437" alt="Captura de tela 2026-10-15 183219" src="https://github.com/user-attachments/assets/87259032-d6aa-4a97-be68-9d37d61b43e7" />
+
 
 
 ### Gameplay - Dodging Normal & Tank Cubes

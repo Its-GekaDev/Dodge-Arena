@@ -84,8 +84,8 @@ The game features three distinct enemy variants with unique behaviors:
 
 ## ⚡ Warning!! ⚡
 
-I Used IA to Add Coments in my scripts but the script i make by my own
-I used IA to make this read.me too 
+I Used AI to Add Coments in my scripts but the script i make by my own
+I used AI to make this read.me too 
 
 ---
 

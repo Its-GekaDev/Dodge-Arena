@@ -1,3 +1,4 @@
+<img width="2557" height="1437" alt="Captura de tela 2026-10-15 182617" src="https://github.com/user-attachments/assets/10b3ee68-77d7-40ba-8368-c1b25ea2ed11" />
 <div align="center">
 
 # 🟩 Dodge Arena (Unity Prototype)
@@ -48,27 +49,32 @@ The game features three distinct enemy variants with unique behaviors:
 ### Main Menu / Start Screen
 *(Replace with your screenshot link)*
 <br>
-<img src="path/to/screenshot1.png" width="800" alt="Main Menu">
+<img width="1226" height="697" alt="image" src="https://github.com/user-attachments/assets/22aea63c-2fff-40cf-9497-a79b48ba260e" />
+
 
 ### Gameplay - Dodging Normal & Tank Cubes
 *(Replace with your screenshot link)*
 <br>
-<img src="path/to/screenshot2.png" width="800" alt="Gameplay">
+<img width="1230" height="691" alt="Captura de tela 2026-10-15 182728" src="https://github.com/user-attachments/assets/d0211137-c9e3-4033-baa8-b57ec1527117" />
+
 
 ### Facing the Fast Small Cubes
 *(Replace with your screenshot link)*
 <br>
-<img src="path/to/screenshot3.png" width="800" alt="Small Cubes">
+<img width="1235" height="692" alt="Captura de tela 2026-10-15 182651" src="https://github.com/user-attachments/assets/fad012f3-094d-4473-95c4-598cacf0ca06" />
+
 
 ### High Survival Timer
 *(Replace with your screenshot link)*
 <br>
-<img src="path/to/screenshot4.png" width="800" alt="Timer">
+<img width="1226" height="697" alt="Captura de tela 2026-10-15 182850" src="https://github.com/user-attachments/assets/54cd2a9a-f704-46dc-96e1-c6ec0e4628e3" />
+
 
 ### Game Over Screen
 *(Replace with your screenshot link)*
 <br>
-<img src="path/to/screenshot5.png" width="800" alt="Game Over">
+<img width="1228" height="683" alt="Captura de tela 2026-10-15 182635" src="https://github.com/user-attachments/assets/d85bbeda-234e-4920-8db4-1c9e3fc6b26b" />
+
 
 </div>
 
